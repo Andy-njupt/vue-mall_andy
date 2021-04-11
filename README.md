@@ -1,4 +1,5 @@
-# vue-mall-admin
+购物商城B端管理系统
+# vue-mall-andy
 
 ## Project setup
 ```
