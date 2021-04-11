@@ -1,0 +1,21 @@
+.login {
+    width: 500px;
+    height: 300px;
+    margin: 50px auto 0;
+    border: 1px solid #eee;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .login-form {
+        min-width: 300px;
+        // label {
+        //    white-space: nowrap;
+        //    min-width: 100px;
+        //    display: inline-block;
+        // }
+        .ant-col{
+            padding: 0;
+            line-height: 39px;
+        }
+    }
+}
